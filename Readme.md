@@ -78,7 +78,7 @@ Develop a robust backend API using Node.js, Express, and MongoDB to facilitate a
 1. **Clone the repository**:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/yashagrawaltech/project_build_apis_with_nodejs.git
     cd <repository-directory>
     ```
 
